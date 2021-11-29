@@ -1,7 +1,8 @@
 # ARCH
 Arch is collection of tools
 # SCREENSHOT
-![Screenshot from 2021-11-30 00-04-12](https://user-images.githubusercontent.com/88471935/143820221-5ffa3dca-63ba-4dc7-8b85-06ddf51cdffa.png)
+![IMG_20211129_121511](https://user-images.githubusercontent.com/88471935/143821372-466664f7-9abe-4a3d-a792-5145bb0cbf53.jpg)
+
 # RUN
 cd ARCH
 
